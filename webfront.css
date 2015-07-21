@@ -7,12 +7,12 @@
 }
 
 .ipsWebFront {
-	background-color: #555555;
+	background-color: #F4F4F4;
 }
 
 .ipsTabPane > .navigation ,
 .ipsContentChanger > .navigation {
-	background-color: #111111;
+	background-color: #FAFAFA;
 }
 
 .ipsChart,
