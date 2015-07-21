@@ -1,14 +1,13 @@
 {
-    "author": "Michael Maroszek",
-    "version": "0.15",
+    "author": "Marek Kretzschmar",
+    "version": "0.1",
     "compatible": 1,
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/paresy\/DarkSkin.git",
+    "git": "https:\/\/github.com\/mkretzschmar\/LightSkin.git",
     "icons": [
         "Bird",
         "Flag",
         "Globe",
-        "Heart",
         "Marker",
         "Shield",
         "Star"
