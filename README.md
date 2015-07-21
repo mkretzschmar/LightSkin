@@ -1,7 +1,7 @@
-DarkSkin für IP-Symcon WebFront
+LightSkin für IP-Symcon WebFront
 
 * Größe: 248kB
-* Farbton: Dunkelgrau
+* Farbton: Hellgrau
 * Buttons haben eine Mindestbreite von 50px
 * Text in Buttons wird mittig zentriert
 
