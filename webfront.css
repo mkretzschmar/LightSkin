@@ -17,6 +17,24 @@
 	background-color: #FAFAFA;
 }
 
+.ipsDialog.modal {
+    background: rgba(220, 220, 220, 0.4) none repeat scroll 0 0;
+}
+
+.ipsDialog > div {
+    background: rgba(220, 220, 220, 0.9) none repeat scroll 0 0;
+    border-color: rgba(22, 22, 22, 0.3);
+    border-style: solid;
+    border-width: 1px;
+    bottom: 3%;
+    font-size: 15px;
+    left: 3%;
+    position: absolute;
+    right: 3%;
+    top: 3%;
+    z-index: 101;
+}
+
 .ipsChart,
 .ipsChartDialog .content .ipsContainer {
 	color: #000000;
@@ -25,4 +43,24 @@
 	-moz-animation-name: none !important;
 	-ms-animation-name: none !important;
 	animation-name: none !important;
+}
+
+.ipsPanel.ipsChart > canvas {
+    cursor: pointer;
+	color: #000000;
+}
+
+.ipsDialog.ipsChartDialog > div > .content {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    overflow: hidden;
+}
+.ipsDialog.ipsChartDialog > div > .content .text {
+    font-size: 17px;
+    position: absolute;
+    text-align: center;
+    top: 45%;
+}
+.ipsDialog.ipsChartDialog > div > .content .error {
+    color: red;
 }
