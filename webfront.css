@@ -65,3 +65,7 @@
 .ipsDialog.ipsChartDialog > div > .content .error {
     color: red;
 }
+
+.ipsVariable {
+	border: 1x solid black;
+}
