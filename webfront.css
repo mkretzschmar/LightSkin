@@ -18,13 +18,13 @@
 }
 
 .ipsDialog.modal {
-    background: rgba(220, 220, 220, 0.0) none repeat scroll 0 0;
+    background: rgba(220, 220, 220, 1.0) none repeat scroll 0 0;
 }
 
 .ipsDialog > div {
 	color: #000000;
-    background: rgba(220, 220, 220, 0.0) none repeat scroll 0 0;
-    border-color: rgba(22, 22, 22, 0.0);
+    background: rgba(220, 220, 220, 1.0) none repeat scroll 0 0;
+    border-color: rgba(22, 22, 22, 1.0);
     border-style: solid;
     border-width: 1px;
     bottom: 3%;
