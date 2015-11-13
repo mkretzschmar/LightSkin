@@ -7,19 +7,22 @@
 }
 
 .ipsWebFront {
+	color: #000000;
 	background-color: #F4F4F4;
 }
 
 .ipsTabPane > .navigation ,
 .ipsContentChanger > .navigation {
+	color: #000000;
 	background-color: #FAFAFA;
 }
 
 .ipsChart,
 .ipsChartDialog .content .ipsContainer {
+	color: #000000;
 	background-color: #FFFFFF;
-  -webkit-animation-name: none !important;
-  -moz-animation-name: none !important;
-  -ms-animation-name: none !important;
-  animation-name: none !important;
+	-webkit-animation-name: none !important;
+	-moz-animation-name: none !important;
+	-ms-animation-name: none !important;
+	animation-name: none !important;
 }
